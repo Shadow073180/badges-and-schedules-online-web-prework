@@ -30,6 +30,7 @@ array4 = $array3
 array4.each do |x|
   puts x
 end
+end
 
 
 
