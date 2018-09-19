@@ -19,11 +19,12 @@ def assign_rooms(array)
   array.each do |name|
    array2.push(name)
  end
+ i = 0
  for  i in 0..7
  if i < 7
  
  puts "Hello, #{array2[i]}! You'll be assigned to room #{array3[i]}!"
-
+end
 end
 
 
