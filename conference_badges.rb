@@ -28,7 +28,7 @@ end
 def printer(arg)
 array4 = $array3
 array5 = $array2
-puts array4[0]
+puts arg
 
 end
 
