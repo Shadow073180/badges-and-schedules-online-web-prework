@@ -34,6 +34,7 @@ end
 array5.each do |y|
   puts y
 end
+end
 
 
 
