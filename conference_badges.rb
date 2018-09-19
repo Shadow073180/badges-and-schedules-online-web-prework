@@ -22,7 +22,7 @@ def assign_rooms(array)
 end
   
 end
-
+assign_rooms(array)
 
 
 
