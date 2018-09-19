@@ -26,9 +26,10 @@ end
 
 
 def printer(arg)
-array4 = $array3
+array4 = $array3[0]
 array4.each do |x|
   puts x
+
 end
 end
 
