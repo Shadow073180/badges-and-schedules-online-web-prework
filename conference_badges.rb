@@ -1,4 +1,5 @@
 def badge_maker(arg)
+  rturn "hello, my name is #{arg}"
 end
 
 
