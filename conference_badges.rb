@@ -28,10 +28,8 @@ end
 def printer(arg)
 array1 = []
 arg.each do |x|
-  array1.push(x)
+ puts "Hello, my name is #{x}."
 end
-puts "Hello, my name is #{array1[0]}."
-
 end
 
 
