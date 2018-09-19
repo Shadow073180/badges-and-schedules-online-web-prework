@@ -26,9 +26,10 @@ end
 
 
 def printer(arg)
-array4 = $array3
-array5 = $array2
-puts arg
+array1 = []
+arg.each do |x|
+  array1.push(x)
+end
 
 end
 
