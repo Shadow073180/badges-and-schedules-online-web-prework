@@ -35,7 +35,7 @@ arg.each do |x|
  puts "Hello, my name is #{x}."
 end
 array1.each do |name|
-  array3[i] = "Hello, #{arg}! You'll be assigned to room #{array2[i]}!"
+  array3[i] = "Hello, #{arg[i]}! You'll be assigned to room #{array2[i]}!"
   i += 1
 end
  array3.each do |y|
