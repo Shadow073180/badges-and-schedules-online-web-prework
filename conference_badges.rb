@@ -4,11 +4,11 @@ end
 
 
 def batch_badge_creator(array)
-  array2 = []
+  $array3 = []
   array.each do |name|
-  array2.push("Hello, my name is #{name}.")
+  $array3.push("Hello, my name is #{name}.")
   end
-    return (array2)
+    return ($array3)
   
 end
 
@@ -26,7 +26,7 @@ end
 
 
 def printer(arg)
-  puts $array2
+  puts array3
 end
 
 
