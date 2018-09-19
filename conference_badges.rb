@@ -25,6 +25,10 @@ end
 end
 
 
+def printer(arg)
+end
+
+
 
 
 
