@@ -21,7 +21,7 @@ def assign_rooms(array)
    array2.push("Hello, #{name}! You'll be assigned to room #{array[i]}!")
    i++
   end
-  puts array2
+  puts (array2)
 end
 
 
