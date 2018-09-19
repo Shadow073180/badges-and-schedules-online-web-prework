@@ -26,11 +26,21 @@ end
 
 
 def printer(arg)
+i = 0
 array1 = []
+array2 = ["1", "2", "3", "4", "5", "6", "7"]
+array3 = []
 arg.each do |x|
+  array1.push(x)
  puts "Hello, my name is #{x}."
 end
+array1.each do |name|
+  array3[i] = "Hello, #{name}! You'll be assigned to room #{array2[i]}!"
 end
+ array3.each do |y|
+   puts y 
+ end
+ end
 
 
 
