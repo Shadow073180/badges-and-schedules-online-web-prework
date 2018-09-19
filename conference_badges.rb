@@ -30,6 +30,7 @@ array1 = []
 arg.each do |x|
   array1.push(x)
 end
+puts "Hello, my name is #{array[0]}."
 
 end
 
