@@ -21,12 +21,12 @@ def assign_rooms(array)
    array2[i] = "Hello, #{name}! You'll be assigned to room #{array1[i]}!"
   i += 1
 end
-  return array2
+  return $array2
 end
 
 
 def printer(arg)
-  puts array2
+  puts $array2
 end
 
 
