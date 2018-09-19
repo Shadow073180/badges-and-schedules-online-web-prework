@@ -1,17 +1,17 @@
-def badge_maker
+def badge_maker(arg)
 end
 
 
-def batch_badge_creator
+def batch_badge_creator(arg)
 end
 
 
-def assign_rooms
+def assign_rooms(arg)
 end
 
 
 
-def printer
+def printer(arg)
 end
 
 
