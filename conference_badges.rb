@@ -21,7 +21,7 @@ def assign_rooms(array)
  end
  for  i in 0..7
  if i < 7
- end
+ 
  puts "Hello, #{array2[i]}! You'll be assigned to room #{array3[i]}!"
 
 end
