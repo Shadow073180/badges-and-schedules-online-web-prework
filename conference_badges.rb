@@ -15,7 +15,7 @@ end
 
 def assign_rooms(array)
   i = 0
-  array2 = []
+  $array2 = []
   array1 = ["1", "2", "3", "4", "5", "6", "7"]
   array.each do |name|
    array2[i] = "Hello, #{name}! You'll be assigned to room #{array1[i]}!"
