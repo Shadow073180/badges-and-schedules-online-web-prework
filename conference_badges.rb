@@ -26,7 +26,7 @@ end
 
 
 def printer(arg)
-  puts array3
+  puts $array3
 end
 
 
