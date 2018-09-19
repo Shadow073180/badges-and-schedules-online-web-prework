@@ -28,12 +28,8 @@ end
 def printer(arg)
 array4 = $array3
 array5 = $array2
-array4.each do |x|
-  puts x[0]
-end
-array5.each do |y|
-  puts y[0]
-end
+puts array4[0]
+
 end
 
 
