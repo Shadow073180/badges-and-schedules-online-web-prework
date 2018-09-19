@@ -26,7 +26,7 @@ end
 
 
 def printer(arg)
-  return array[0]
+  puts array2
 end
 
 
