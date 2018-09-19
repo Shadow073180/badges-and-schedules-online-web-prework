@@ -19,12 +19,11 @@ def assign_rooms(array)
   array.each do |name|
     puts "Hello #{name}! You'll be assigned to room #{array1[i]}!"
   i++
-  end
+  
 end
 
 
 
-def printer(arg)
-end
+
 
 
