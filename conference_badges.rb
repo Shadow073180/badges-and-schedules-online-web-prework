@@ -15,7 +15,7 @@ end
 
 def assign_rooms(array)
   array2 = []
-  array = [1,2,3,4,5,6,7]
+  array3 = [1,2,3,4,5,6,7]
   array.each do |name|
    array2.push(name)
  end
