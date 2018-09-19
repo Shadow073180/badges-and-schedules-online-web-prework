@@ -24,7 +24,6 @@ def assign_rooms(array)
    puts "Hello, #{array2[i]}! You'll be assigned to room #{array3[i]}!"
   i += 1
 end
-end
 
 
 
