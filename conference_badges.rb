@@ -15,9 +15,9 @@ end
 
 def assign_rooms(array)
   i =0 
-  array1 = [1, 2, 3, 4, 5, 6, 7]
+  array1 = ["1", "2", "3", "4", "5", "6", "7"]
   array.each do |name|
-    puts "Hello #{name}! You'll be assigned to room #{array1[i].to_s]}!"
+    puts "Hello #{name}! You'll be assigned to room #{array1[i]}!"
     i++
 end
 
