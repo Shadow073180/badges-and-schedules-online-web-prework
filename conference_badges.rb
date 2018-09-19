@@ -29,10 +29,10 @@ def printer(arg)
 array4 = $array3
 array5 = $array2
 array4.each do |x|
-  puts x
+  puts x[0]
 end
 array5.each do |y|
-  puts y
+  puts y[0]
 end
 end
 
